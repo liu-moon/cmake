@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1bd0354c-bf13-4f5b-b16d-1a1f9b05b5e6" name="Changes" comment="Initial commit">
+      <changelist_data name="Weiqi liu" email="38037355+liu-moon@users.noreply.github.com" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/.idea/t1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/build/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/build/CMakeFiles/3.22.1/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/build/CMakeFiles/3.22.1/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/build/CMakeFiles/3.22.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/build/CMakeFiles/3.22.1/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/build/CMakeFiles/3.22.1/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/build/CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/build/CMakeFiles/3.22.1/CompilerIdC/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/build/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/build/CMakeFiles/3.22.1/CompilerIdCXX/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/build/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/build/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/build/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/build/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/build/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/build/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/build/CMakeFiles/hello.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/build/CMakeFiles/hello.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/build/CMakeFiles/hello.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/build/CMakeFiles/hello.dir/compiler_depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/build/CMakeFiles/hello.dir/compiler_depend.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/build/CMakeFiles/hello.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/build/CMakeFiles/hello.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/build/CMakeFiles/hello.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/build/CMakeFiles/hello.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/build/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/build/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/build/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/cmake-build-debug/.cmake/api/v1/reply/cache-v2-14da5ae2bc164c05871d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-649e5b6ac620236b709e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-64fe26fb004cd11ca1f9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/cmake-build-debug/.cmake/api/v1/reply/index-2023-05-25T11-55-54-0571.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/cmake-build-debug/.cmake/api/v1/reply/target-hello-Debug-9b5577b0ed5fc59a5800.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-2be61ab56229b68d2a29.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/cmake-build-debug/CMakeFiles/3.25.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/cmake-build-debug/CMakeFiles/3.25.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/cmake-build-debug/CMakeFiles/3.25.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdC/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdCXX/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/cmake-build-debug/CMakeFiles/hello.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/cmake-build-debug/CMakeFiles/hello.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/cmake-build-debug/CMakeFiles/hello.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/cmake-build-debug/CMakeFiles/hello.dir/compiler_depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/cmake-build-debug/CMakeFiles/hello.dir/compiler_depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/cmake-build-debug/CMakeFiles/hello.dir/compiler_depend.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/cmake-build-debug/CMakeFiles/hello.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/cmake-build-debug/CMakeFiles/hello.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/cmake-build-debug/CMakeFiles/hello.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/cmake-build-debug/CMakeFiles/hello.dir/main.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/cmake-build-debug/CMakeFiles/hello.dir/main.cpp.o.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/cmake-build-debug/CMakeFiles/hello.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/cmake-build-debug/HELLO.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/cmake-build-debug/Project.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/cmake-build-debug/hello" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t1/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t2/.idea/t2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t2/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t2/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t2/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t2/build/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t2/build/CMakeFiles/3.22.1/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t2/build/CMakeFiles/3.22.1/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t2/build/CMakeFiles/3.22.1/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t2/build/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t2/build/CMakeFiles/3.22.1/CompilerIdCXX/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t2/build/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t2/build/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t2/build/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t2/build/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t2/build/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t2/build/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t2/build/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t2/build/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t2/build/bin/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t2/build/bin/CMakeFiles/hello.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t2/build/bin/CMakeFiles/hello.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t2/build/bin/CMakeFiles/hello.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t2/build/bin/CMakeFiles/hello.dir/compiler_depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t2/build/bin/CMakeFiles/hello.dir/compiler_depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t2/build/bin/CMakeFiles/hello.dir/compiler_depend.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t2/build/bin/CMakeFiles/hello.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t2/build/bin/CMakeFiles/hello.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t2/build/bin/CMakeFiles/hello.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t2/build/bin/CMakeFiles/hello.dir/main.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t2/build/bin/CMakeFiles/hello.dir/main.o.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t2/build/bin/CMakeFiles/hello.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t2/build/bin/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t2/build/bin/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t2/build/bin/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t2/build/bin/hello" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t2/build/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t2/build/install_manifest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t2/doc/hello.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t2/runhello.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t2/src/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t2/src/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/.idea/t3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/build/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/build/CMakeFiles/3.22.1/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/build/CMakeFiles/3.22.1/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/build/CMakeFiles/3.22.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/build/CMakeFiles/3.22.1/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/build/CMakeFiles/3.22.1/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/build/CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/build/CMakeFiles/3.22.1/CompilerIdC/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/build/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/build/CMakeFiles/3.22.1/CompilerIdCXX/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/build/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/build/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/build/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/build/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/build/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/build/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/build/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/build/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/build/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/build/install_manifest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/build/lib/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/build/lib/CMakeFiles/hello.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/build/lib/CMakeFiles/hello.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/build/lib/CMakeFiles/hello.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/build/lib/CMakeFiles/hello.dir/compiler_depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/build/lib/CMakeFiles/hello.dir/compiler_depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/build/lib/CMakeFiles/hello.dir/compiler_depend.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/build/lib/CMakeFiles/hello.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/build/lib/CMakeFiles/hello.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/build/lib/CMakeFiles/hello.dir/hello.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/build/lib/CMakeFiles/hello.dir/hello.o.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/build/lib/CMakeFiles/hello.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/build/lib/CMakeFiles/hello.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/build/lib/CMakeFiles/hello_static.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/build/lib/CMakeFiles/hello_static.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/build/lib/CMakeFiles/hello_static.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/build/lib/CMakeFiles/hello_static.dir/cmake_clean_target.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/build/lib/CMakeFiles/hello_static.dir/compiler_depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/build/lib/CMakeFiles/hello_static.dir/compiler_depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/build/lib/CMakeFiles/hello_static.dir/compiler_depend.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/build/lib/CMakeFiles/hello_static.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/build/lib/CMakeFiles/hello_static.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/build/lib/CMakeFiles/hello_static.dir/hello.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/build/lib/CMakeFiles/hello_static.dir/hello.o.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/build/lib/CMakeFiles/hello_static.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/build/lib/CMakeFiles/hello_static.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/build/lib/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/build/lib/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/build/lib/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/build/lib/libhello.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/build/lib/libhello.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/build/lib/libhello.so.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/build/lib/libhello.so.1.2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/lib/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/lib/hello.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3/lib/hello.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t4/.idea/t4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t4/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t4/build/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t4/build/CMakeFiles/3.22.1/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t4/build/CMakeFiles/3.22.1/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t4/build/CMakeFiles/3.22.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t4/build/CMakeFiles/3.22.1/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t4/build/CMakeFiles/3.22.1/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t4/build/CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t4/build/CMakeFiles/3.22.1/CompilerIdC/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t4/build/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t4/build/CMakeFiles/3.22.1/CompilerIdCXX/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t4/build/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t4/build/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t4/build/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t4/build/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t4/build/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t4/build/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t4/build/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t4/build/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t4/build/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t4/build/src/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t4/build/src/CMakeFiles/main.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t4/build/src/CMakeFiles/main.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t4/build/src/CMakeFiles/main.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t4/build/src/CMakeFiles/main.dir/compiler_depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t4/build/src/CMakeFiles/main.dir/compiler_depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t4/build/src/CMakeFiles/main.dir/compiler_depend.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t4/build/src/CMakeFiles/main.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t4/build/src/CMakeFiles/main.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t4/build/src/CMakeFiles/main.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t4/build/src/CMakeFiles/main.dir/main.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t4/build/src/CMakeFiles/main.dir/main.o.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t4/build/src/CMakeFiles/main.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t4/build/src/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t4/build/src/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t4/build/src/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t4/build/src/main" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t4/src/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t4/src/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/刷CMake Practice.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Weiqi liu &lt;38037355+liu-moon@users.noreply.github.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QHbu5o4ZTZs6WovHqkZtESp1Hs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "/home/liuiu/ubuntu/liuiu/cmake",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1bd0354c-bf13-4f5b-b16d-1a1f9b05b5e6" name="Changes" comment="" />
+      <created>1685013673758</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685013673758</updated>
+      <workItem from="1685013674759" duration="51000" />
+      <workItem from="1685085494584" duration="384000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+</project>
